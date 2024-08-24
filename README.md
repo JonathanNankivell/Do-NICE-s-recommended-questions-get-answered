@@ -37,6 +37,4 @@ The data was then ready for automated processing.
 
 Of the 1067 unique recommendations given in 2017, only 90 are no longer recommended.
 
-Questions can be un-recommended for many reasons including both that the question has been answered and that the question is not longer interesting.
-
-If we assume that all of the questions NICE recommended in 2017 and no longer recommended now were removed because the appropriate research was performed, then that still would suggest only 11.6 percent of the questions have been answered.
+Questions can be un-recommended for many reasons including both that the question has been answered and that the question is not longer interesting. If we assume that all of the questions NICE recommended in 2017 and no longer recommended now were removed because the appropriate research was performed, then that still would suggest only 11.6 percent of the questions have been answered.
