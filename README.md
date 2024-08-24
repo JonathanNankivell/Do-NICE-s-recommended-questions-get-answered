@@ -30,3 +30,11 @@ Using VSCode I performed the following operations:
 3. Removed the lines that didn't contain the regex '[a-zA-Z]\*\d\*/\d\*'. These were found using the regex '^((?!^[a-zA-Z]\*\d\*/\d\*).)\*\$\n'
 
 The data was then ready for automated processing.
+
+## What are the results?
+
+Of the 1067 unique recommendations given in 2017, only 90 are no longer recommended.
+
+Questions can be un-recommended for many reason indlucding both that the question has been answered and that the question is not longer interesting.
+
+If we assume that all of the questions that NICE recommeded research into in 2017 and no longer recommend research into were removed because the approprate research was performed, then that still would suggest only 11.6 percent of the questions have been answered.
