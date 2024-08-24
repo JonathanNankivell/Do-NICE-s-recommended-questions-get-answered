@@ -12,7 +12,7 @@ In the comments of Experimental History, I made a [bold claim](https://open.subs
 > 
 > It's not hard to design studies that answer NICE's research priorities. These studies wouldn't be unusually difficult to do. But somehow the studies which NICE claim would affect the clinical care they recommend UK hospitals provide do not get ran.
 
-My claims were based on having read through a few of NICE's guidelines and having compiled some of their recommendations for research into a post. But, my basis was anecdote not data.
+My claims were based on having read through a few of NICE's guidelines and having compiled some of their recommendations for research into a post. But, this basis was anecdote not data.
 
 But this claim rests on an empirical question. We can simply check how often NICE's recommended questions actually get answered by looking at the numbers.
 
