@@ -12,7 +12,9 @@ In the comments of Experimental History, I made a [bold claim](https://open.subs
 > 
 > It's not hard to design studies that answer NICE's research priorities. These studies wouldn't be unusually difficult to do. But somehow the studies which NICE claim would affect the clinical care they recommend UK hospitals provide do not get ran.
 
-Seeing as my acusation rests on an empirical question - how often do NICE's recommended questions actually get answered? - I thought it best to look into this rigorously.
+My claims were based on having read through a few of NICE's guidelines and having compiled some of their recommendations for research into a post. But, my basis was anecdote not data.
+
+But this claim rests on an empirical question. We can simply check how often NICE's recommended questions actually get answered by looking at the numbers.
 
 This repo is my quick attempt to get a sense of how often NICE's recommended questions have been answered.
 
