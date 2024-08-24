@@ -2,7 +2,7 @@
 
 ## What is this about?
 
-In the comments of Experimental History, I made a bold claim:
+In the comments of Experimental History, I made a [bold claim](https://open.substack.com/pub/experimentalhistory/p/whos-got-the-guts-to-go-to-the-moon?utm_campaign=comment-list-share-cta&utm_medium=web&comments=true&commentId=62272451):
 
 > > Meta-analyses come out all the time that are like, “Unfortunately, all of the studies that try to answer this important question are so bad that we can’t learn anything from them.” Instead of running another 500 piddling, confounded little studies, someone with guts, taste, and money could run the actually good study.
 > 
