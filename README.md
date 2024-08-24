@@ -14,7 +14,7 @@ In the comments of Experimental History, I made a [bold claim](https://open.subs
 
 My claims were based on having read through a few of NICE's guidelines and having compiled some of their recommendations for research into a post. But, this basis was anecdote not data.
 
-The claim I make in my comment is empirical. There is no need for guess work; we can simply check how often NICE's recommended questions actually get answered by looking at the numbers.
+The claim I maked in my comment was empirical. There is no need for guess work; we can simply check how often NICE's recommended questions actually get answered by looking at the numbers.
 
 This repo is my quick attempt to get a sense of how often NICE's recommended questions have been answered.
 
